@@ -18,8 +18,6 @@ Languages and Tools:
 <img src="https://github.com/guilhermecampos-dev/guilhermecampos-dev/assets/157999298/ca53bdec-fc83-499d-b08c-c980b03a7a48" alt="js-logo" width="30px">
 <br>
 <br>
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermecampos-dev&show_icons=true&theme=tokyonight)
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecampos-dev&layout=compact)
 
 
