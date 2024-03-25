@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm Guilherme Campos, I'm a front-end developer in formation, passionate about technology! :computer:
-<br>
-This is the space where i spend most of my time, learning and study codes.
+<img src="https://readme-typing-svg.herokuapp.com/?color=F44336&size=35&center=true&vCenter=true&width=900&lines=My+name+is+Guilherme+Campos;I'm+from+Brazil;I'm+a+FullStack+Developer;Be+Welcome!+:%29">
 
 Connect with me: 
 <br>
@@ -11,14 +9,23 @@ Connect with me:
 <a href="www.linkedin.com/in/guilherme-martins-campos"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo" width="100px">
 <br>
 
-Languages and Tools:
+Main Skills:
 <br>
 <img src="https://github.com/guilhermecampos-dev/guilhermecampos-dev/assets/157999298/670b5239-cc75-4804-afc9-94f2db9b0e65" alt="html-logo" width="30px">
 <img src="https://github.com/guilhermecampos-dev/guilhermecampos-dev/assets/157999298/f7c0dca5-083c-45bc-9a65-3d79ef54d155" alt="css-logo" width="30px">
 <img src="https://github.com/guilhermecampos-dev/guilhermecampos-dev/assets/157999298/ca53bdec-fc83-499d-b08c-c980b03a7a48" alt="js-logo" width="30px">
 <br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecampos-dev&layout=compact)
+Skills in Training:
+<br>
+<img src="https://github.com/guilhermecampos-dev/guilhermecampos-dev/assets/157999298/ca53bdec-fc83-499d-b08c-c980b03a7a48" alt="js-logo" width="30px">
+<img src="https://github.com/guilhermecampos-dev/guilhermecampos-dev/blob/main/pngegg%20(2).png?raw=true" alt="node.js" width="30px">
+<img src="https://github.com/guilhermecampos-dev/guilhermecampos-dev/blob/main/pngegg%20(1).png?raw=true" alt="react" width="30px">
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermecampos-dev&show_icons=true&theme=dark)
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecampos-dev&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
