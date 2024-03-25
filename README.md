@@ -21,6 +21,8 @@ Skills in Training:
 <img src="https://github.com/guilhermecampos-dev/guilhermecampos-dev/assets/157999298/ca53bdec-fc83-499d-b08c-c980b03a7a48" alt="js-logo" width="30px">
 <img src="https://github.com/guilhermecampos-dev/guilhermecampos-dev/blob/main/pngegg%20(2).png?raw=true" alt="node.js" width="30px">
 <img src="https://github.com/guilhermecampos-dev/guilhermecampos-dev/blob/main/pngegg%20(1).png?raw=true" alt="react" width="30px">
+<img src="https://github.com/guilhermecampos-dev/guilhermecampos-dev/blob/main/pngegg%20(3).png?raw=true" alt="tps" width="40px">
+<br>
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermecampos-dev&show_icons=true&theme=dark)
 <br>
