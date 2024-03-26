@@ -18,7 +18,7 @@ Main Skills:
 Skills in Training:
 <br>
 <img src="https://github.com/guilhermecampos-dev/guilhermecampos-dev/assets/157999298/ca53bdec-fc83-499d-b08c-c980b03a7a48" alt="js-logo" width="30px">
-<img src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text-thumbnail.png" alt="node.js" width="30px">
+<img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="node.js" width="30px">
 <img src="https://github.com/guilhermecampos-dev/guilhermecampos-dev/blob/main/pngegg%20(1).png?raw=true" alt="react" width="30px">
 <img src="https://github.com/guilhermecampos-dev/guilhermecampos-dev/blob/main/pngegg%20(3).png?raw=true" alt="tps" width="40px">
 <br>
