@@ -8,7 +8,6 @@ Connect with me:
 <br>
 <a href="www.linkedin.com/in/guilherme-martins-campos"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo" width="100px">
 <br>
-
 Main Skills:
 <br>
 <img src="https://github.com/guilhermecampos-dev/guilhermecampos-dev/assets/157999298/670b5239-cc75-4804-afc9-94f2db9b0e65" alt="html-logo" width="30px">
