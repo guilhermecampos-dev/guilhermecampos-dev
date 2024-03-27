@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8E44AD&size=35&center=true&vCenter=true&width=1000&lines=Hi+everyone;Welcome!!; I'm+Guilherme+Campos;I'm+FullStack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F4336&size=35&center=true&vCenter=true&width=1000&lines=Hi,+everyone!!+Welcomme!!;I´m+Guilherme+Campos;I'm+FullStack+Developer;Enjoy!!)](https://git.io/typing-svg)
 
 
 Connect with me: 
