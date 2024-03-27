@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=F44336&size=35&center=true&vCenter=true&width=900&lines="Hi+everyone!!;Welcome!!;I'm+Guilherme+Campos;I'm+a+FullStack+Developer;Be+Welcome!">
+<img src="https://readme-typing-svg.herokuapp.com/?color=F44336&size=35&center=true&vCenter=true&width=900&lines"Hi+everyone!!;Welcome!!;I'm+Guilherme+Campos;I'm+a+FullStack+Developer;Be+Welcome!">
 
 Connect with me: 
 <br>
