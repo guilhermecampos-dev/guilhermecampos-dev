@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=F44336&size=35&center=true&vCenter=true&width=900&lines=My+name+is+Guilherme+Campos;I'm+from+Brazil;I'm+a+FullStack+Developer;Be+Welcome!+:%29">
+<img src="https://readme-typing-svg.herokuapp.com/?color=F44336&size=35&center=true&vCenter=true&width=900&lines=Hi Hy+everyone!!+Welcome!! I'm Guilherme+Campos+I'm+a+FullStack+Developer;Be+Welcome!+:%29">
 
 Connect with me: 
 <br>
