@@ -14,15 +14,14 @@ Main Skills:
 <br>
 <img src="https://github.com/guilhermecampos-dev/guilhermecampos-dev/assets/157999298/670b5239-cc75-4804-afc9-94f2db9b0e65" alt="html-logo" width="30px">
 <img src="https://github.com/guilhermecampos-dev/guilhermecampos-dev/assets/157999298/f7c0dca5-083c-45bc-9a65-3d79ef54d155" alt="css-logo" width="30px">
-<img src="https://github.com/guilhermecampos-dev/guilhermecampos-dev/assets/157999298/ca53bdec-fc83-499d-b08c-c980b03a7a48" alt="js-logo" width="30px">
+<img src="https://github.com/guilhermecampos-dev/guilhermecampos-dev/assets/157999298/ca53bdec-fc83-499d-b08c-c980b03a7a48" alt="js-logo" width="30px">]
+<img src="https://github.com/guilhermecampos-dev/guilhermecampos-dev/issues/2#issue-2961937468" alt="cypress-logo" width="30px">
 <br>
 <br>
 Skills in Training:
 <br>
 <img src="https://github.com/guilhermecampos-dev/guilhermecampos-dev/assets/157999298/ca53bdec-fc83-499d-b08c-c980b03a7a48" alt="js-logo" width="30px">
 <img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="node.js" width="30px">
-<img src="https://www.svgrepo.com/show/355190/reactjs.svg" alt="react" width="30px">
-<img src="https://www.svgrepo.com/show/439022/typescript.svg" alt="tps" width="30px">
 <br>
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermecampos-dev&show_icons=true&theme=dark)
