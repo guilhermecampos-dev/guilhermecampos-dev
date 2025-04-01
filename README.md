@@ -27,7 +27,7 @@
 <img src="https://github.com/user-attachments/assets/fd7a07f9-35ea-4f11-ae8e-0464e53a5538" alt="cypress-logo" width="80px">
 <br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermecampos-dev&show_icons=true&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermecampos-dev)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecampos-dev&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
