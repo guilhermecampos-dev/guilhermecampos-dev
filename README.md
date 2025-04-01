@@ -25,12 +25,6 @@
 <img src="https://github.com/guilhermecampos-dev/guilhermecampos-dev/assets/157999298/ca53bdec-fc83-499d-b08c-c980b03a7a48" alt="js-logo" width="30px">
 <img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="node.js" width="30px">
 <img src="https://github.com/user-attachments/assets/fd7a07f9-35ea-4f11-ae8e-0464e53a5538" alt="cypress-logo" width="80px">
-<br>
-<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermecampos-dev)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecampos-dev&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
