@@ -10,6 +10,8 @@
 <div align="left">
   <a href="www.linkedin.com/in/guilherme-martins-campos"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo"  />
   <a href="https://www.instagram.com/guilhermemc.ampos/"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="30" alt="instagram logo"  />
+  <a href="https://mail.google.com/mail/u/2/?ogbl#inbox"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="39" height="30" alt="gmail logo"  />
+
 </div>
 
 
