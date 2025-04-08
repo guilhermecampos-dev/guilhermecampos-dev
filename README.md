@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 
@@ -6,9 +7,11 @@
 
 ### Connect with me: 
 <br>
-<a href="https://www.instagram.com/guilhermemc.ampos/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="inst-logo" width="110px">
-<br>
-<a href="www.linkedin.com/in/guilherme-martins-campos"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo" width="100px">
+<div align="left">
+  <a href="www.linkedin.com/in/guilherme-martins-campos"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo"  />
+  <a href="https://www.instagram.com/guilhermemc.ampos/"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="30" alt="instagram logo"  />
+</div>
+
 
 
 ### Main Skills:
@@ -21,10 +24,18 @@
 
 ### Skills in Training:
 
-
+<div align="left">
 <img src="https://github.com/guilhermecampos-dev/guilhermecampos-dev/assets/157999298/ca53bdec-fc83-499d-b08c-c980b03a7a48" alt="js-logo" width="30px">
 <img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="node.js" width="30px">
 <img src="https://github.com/user-attachments/assets/fd7a07f9-35ea-4f11-ae8e-0464e53a5538" alt="cypress-logo" width="80px">
+</div>
+<br>
+<br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=guilhermecampos-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermecampos-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true&order=2" height="150" alt="languages graph"  />
+
+
 
 
 <!--
