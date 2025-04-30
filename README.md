@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F4336&size=35&center=true&vCenter=true&width=1000&lines=Hi,+everyone!!+Welcomme!!;I´m+Guilherme+Campos;I'm+QA+Tester;Enjoy!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F4336&size=35&center=true&vCenter=true&width=1000&lines=Hello!!!+Welcomme!!;I´m+Guilherme+Campos;I'm+QA+Tester;Enjoy!!)](https://git.io/typing-svg)
 
 
 ### Connect with me: 
