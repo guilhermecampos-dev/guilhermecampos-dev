@@ -30,11 +30,7 @@
 <img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="node.js" width="30px">
 <img src="https://github.com/user-attachments/assets/fd7a07f9-35ea-4f11-ae8e-0464e53a5538" alt="cypress-logo" width="80px">
 </div>
-<br>
-<br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermecampos-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermecampos-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true&order=2" height="150" alt="languages graph"  />
 
 
 
