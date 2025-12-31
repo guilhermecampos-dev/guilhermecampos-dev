@@ -1,35 +1,37 @@
+# Hi, I'm Guilherme 👋
 
-### Hi there 👋
+## 👨‍💻 About me
+Junior QA Automation Engineer transitioning into test automation.
+Hands-on experience with JavaScript and Cypress, focused on web testing and quality assurance.
+Currently building real-world automation projects and improving testing fundamentals.
 
+## 🧪 What I'm working on
+- Web test automation with Cypress
+- JavaScript fundamentals for QA
+- Improving test structure, assertions and best practices
+- Manual testing concepts and test design techniques
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F4336&size=35&center=true&vCenter=true&width=1000&lines=Hello!!!+Welcomme!!;I´m+Guilherme+Campos;I'm+QA+Tester;Enjoy!!)](https://git.io/typing-svg)
+## 🛠️ Tech Stack
+- JavaScript
+- Cypress
+- Git & GitHub
+- HTML & CSS (testing-focused)
+- Agile & QA fundamentals
 
+## 📌 Featured Projects
+Here you can find my main automation and testing projects:
+- End-to-end tests with Cypress
+- Practice projects focused on QA automation
+- Learning-based repositories with clean and structured code
 
-### Connect with me: 
-<br>
-<div align="left">
-  <a href="https://www.instagram.com/guilhermemc.ampos/"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="30" alt="instagram logo"  />
-  <a href="mailto:guilherme.campos.dev@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="39" height="30" alt="gmail logo"  />
+## 🌍 Goals
+- Grow as a QA Automation Engineer
+- Work in remote and international teams
+- Build solid experience in test automation
 
-</div>
-
-
-
-### Main Skills:
-
-<img src="https://github.com/guilhermecampos-dev/guilhermecampos-dev/assets/157999298/670b5239-cc75-4804-afc9-94f2db9b0e65" alt="html-logo" width="30px">
-<img src="https://github.com/guilhermecampos-dev/guilhermecampos-dev/assets/157999298/f7c0dca5-083c-45bc-9a65-3d79ef54d155" alt="css-logo" width="30px">
-<img src="https://github.com/guilhermecampos-dev/guilhermecampos-dev/assets/157999298/ca53bdec-fc83-499d-b08c-c980b03a7a48" alt="js-logo" width="30px">
-<img src="https://github.com/user-attachments/assets/fd7a07f9-35ea-4f11-ae8e-0464e53a5538" alt="cypress-logo" width="80px">
-
-
-### Skills in Training:
-
-<div align="left">
-<img src="https://github.com/guilhermecampos-dev/guilhermecampos-dev/assets/157999298/ca53bdec-fc83-499d-b08c-c980b03a7a48" alt="js-logo" width="30px">
-<img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="node.js" width="30px">
-<img src="https://github.com/user-attachments/assets/fd7a07f9-35ea-4f11-ae8e-0464e53a5538" alt="cypress-logo" width="80px">
-</div>
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/guilhermecampos-dev
+- GitHub: https://github.com/guilhermecampos-dev
 
 
 
