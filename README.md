@@ -2,11 +2,12 @@
 
 ## 👨‍💻 About me
 Junior QA Automation Engineer transitioning into test automation.
-Hands-on experience with JavaScript and Cypress, focused on web testing and quality assurance.
-Currently building real-world automation projects and improving testing fundamentals.
+Hands-on experience with JavaScript, Cypress and Cucumber (BDD),
+focused on web testing and quality assurance.
 
 ## 🧪 What I'm working on
 - Web test automation with Cypress
+- BDD test scenarios using Cucumber
 - JavaScript fundamentals for QA
 - Improving test structure, assertions and best practices
 - Manual testing concepts and test design techniques
