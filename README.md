@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Guilherme Campos
+👋 Hi, I'm Guilherme Campos
 
-QA Engineer focused on **End-to-End Test Automation**, with hands-on experience building **scalable, stable, and CI-ready test frameworks**.
+QA Engineer focused on End-to-End Test Automation, with hands-on experience building scalable, stable, and CI-ready test frameworks.
 
-I work with modern QA practices, clean architecture, and real-world automation scenarios, aiming for **international QA / SDET opportunities**.
+I work with modern QA practices, clean architecture, and real-world automation scenarios, aiming for international QA / SDET opportunities.
 
 ---
 
@@ -18,21 +18,22 @@ I work with modern QA practices, clean architecture, and real-world automation s
 
 ## 🛠️ Tech Stack & Tools
 
-- **Cypress**
-- **Cucumber**
-- **JavaScript**
-- **Node.js**
-- **Page Object Model (POM)**
-- **GitHub Actions (CI)**
-- Git & GitHub
-- Agile / Scrum fundamentals
+- Cypress  
+- Cucumber  
+- JavaScript  
+- Node.js  
+- Page Object Model (POM)  
+- GitHub Actions (CI)  
+- Git & GitHub  
+- Agile / Scrum fundamentals  
 
 ---
 
 ## 📂 Featured Project
 
-### 🔹 Cypress E2E Automation – SauceDemo  
-📌 Real-world E2E automation project focused on **clean architecture, test stability, and CI execution**.
+### 🔹 Cypress E2E Automation – SauceDemo
+
+📌 Real-world E2E automation project focused on clean architecture, test stability, and CI execution.
 
 **Highlights:**
 - Full E2E coverage: login → checkout completion  
@@ -48,44 +49,25 @@ I work with modern QA practices, clean architecture, and real-world automation s
 
 ## 🎯 Professional Goals
 
-- Grow as a **QA Automation Engineer / SDET**
-- Work with international teams and projects
-- Build production-ready test automation frameworks
-- Continuously improve test quality and reliability
+- Grow as a QA Automation Engineer / SDET  
+- Work with international teams and projects  
+- Build production-ready test automation frameworks  
+- Continuously improve test quality and reliability  
 
 ---
 
 ## 🌍 Languages
 
-- Portuguese (Native)
-- English (Working proficiency)
+- Portuguese (Native)  
+- English (Working proficiency)  
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: guilherme.campos.dev@gmail.com  
-- 💼 LinkedIn: www.linkedin.com/in/guilherme-martins-campos
-- 🧑‍💻 GitHub: https://github.com/guilhermecampos-dev
-
----
+📧 Email: guilherme.campos.dev@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/guilherme-martins-campos  
+🧑‍💻 GitHub: https://github.com/guilhermecampos-dev  
 
 ⭐ If you are a recruiter or hiring manager, feel free to explore my repositories.  
-This profile reflects my commitment to **quality, automation, and continuous improvement**.
-
-
-
-<!--
-**guilhermecampos-dev/guilhermecampos-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This profile reflects my commitment to quality, automation, and continuous improvement.
