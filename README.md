@@ -1,4 +1,4 @@
-👋 Hi, I'm Guilherme Campos
+## 👋 Hi, I'm Guilherme Campos
 
 QA Engineer focused on End-to-End Test Automation, with hands-on experience building scalable, stable, and CI-ready test frameworks.
 
