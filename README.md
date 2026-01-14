@@ -9,12 +9,14 @@ I work with modern QA practices, clean architecture, and real-world automation s
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermecampos-dev&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecampos-dev&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guilhermecampos-dev&style=flat-square&color=blue" alt="profile views"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=guilhermecampos-dev&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecampos-dev&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
 
 ---
