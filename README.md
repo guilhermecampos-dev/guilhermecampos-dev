@@ -1,40 +1,90 @@
-# Hi, I'm Guilherme 👋
+# 👋 Hi, I'm Guilherme Campos
 
-## 👨‍💻 About me
-Junior QA Automation Engineer transitioning into test automation.
-Hands-on experience with JavaScript, Cypress and Cucumber (BDD),
-focused on web testing and quality assurance.
+QA Engineer focused on **End-to-End Test Automation**, with hands-on experience building **scalable, stable, and CI-ready test frameworks**.
 
-## 🧪 What I'm working on
-- Web test automation with Cypress
-- BDD test scenarios using Cucumber
-- JavaScript fundamentals for QA
-- Improving test structure, assertions and best practices
-- Manual testing concepts and test design techniques
+I work with modern QA practices, clean architecture, and real-world automation scenarios, aiming for **international QA / SDET opportunities**.
 
-## 🛠️ Tech Stack
-- JavaScript
-- Cypress
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guilhermecampos-dev&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecampos-dev&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=guilhermecampos-dev&style=flat-square&color=blue" alt="profile views"/>
+</p>
+
+---
+
+## 🧪 QA Automation Focus
+
+- End-to-End (E2E) Test Automation  
+- Functional & Regression Testing  
+- UI Test Strategy & Coverage  
+- CI/CD Integration for Automated Tests  
+- Test Stability & Flaky Test Prevention  
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+- **Cypress**
+- **Cucumber**
+- **JavaScript**
+- **Node.js**
+- **Page Object Model (POM)**
+- **GitHub Actions (CI)**
 - Git & GitHub
-- HTML & CSS (testing-focused)
-- Agile & QA fundamentals
+- Agile / Scrum fundamentals
 
-## 📌 Featured Projects
-Here you can find my main automation and testing projects:
-- End-to-end tests with Cypress
-- Practice projects focused on QA automation
-- Learning-based repositories with clean and structured code
+---
 
-## 🌍 Goals
-- Grow as a QA Automation Engineer
-- Work in remote and international teams
-- Build solid experience in test automation
+## 📂 Featured Project
+
+### 🔹 Cypress E2E Automation – SauceDemo  
+📌 Real-world E2E automation project focused on **clean architecture, test stability, and CI execution**.
+
+**Highlights:**
+- Full E2E coverage: login → checkout completion  
+- Page Object Model architecture  
+- Custom Cypress commands  
+- Error and negative scenarios  
+- GitHub Actions CI pipeline  
+
+🔗 Repository:  
+👉 https://github.com/guilhermecampos-dev/qa-cypress-saucedemo
+
+---
+
+## 🎯 Professional Goals
+
+- Grow as a **QA Automation Engineer / SDET**
+- Work with international teams and projects
+- Build production-ready test automation frameworks
+- Continuously improve test quality and reliability
+
+---
+
+## 🌍 Languages
+
+- Portuguese (Native)
+- English (Working proficiency)
+
+---
 
 ## 📫 Contact
-- LinkedIn: https://linkedin.com/in/guilhermecampos-dev
-- GitHub: https://github.com/guilhermecampos-dev
 
+- 📧 Email: guilherme.campos.dev@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/guilherme-martins-campos
+- 🧑‍💻 GitHub: https://github.com/guilhermecampos-dev
 
+---
+
+⭐ If you are a recruiter or hiring manager, feel free to explore my repositories.  
+This profile reflects my commitment to **quality, automation, and continuous improvement**.
 
 
 
